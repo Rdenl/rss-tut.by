@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestProjectForMobexs</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_text">TUT.BY: Новости ТУТ</string>
+    <string name="empty_view">Нет данных, обновите страницу.</string>
+    <string name="network_error">Не удалось подключиться к серверу, проверьте настройки сети.</string>
+</resources>

@@ -1,0 +1,19 @@
+<by.example.denisstepushchik.testprojectmobexs.views.MarqueeToolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="?attr/colorPrimary"
+    app:titleTextAppearance="@style/Toolbar.TitleText">
+<!--
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/back_button"
+        android:id="@+id/mBackbutton"
+        android:visibility="gone" />-->
+
+
+</by.example.denisstepushchik.testprojectmobexs.views.MarqueeToolbar>
+
+
